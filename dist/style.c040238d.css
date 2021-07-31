@@ -41,6 +41,7 @@ body {
 @media (max-width: 500px) {
   body {
     background-image: url("bg2.35f6ff90.jpg");
+    height: 100vh;
   }
 }
 .globalHeader {
@@ -169,4 +170,4 @@ body {
 }
 
 
-/*# sourceMappingURL=style.072da602.css.map */
+/*# sourceMappingURL=style.c040238d.css.map */

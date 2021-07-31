@@ -41,6 +41,7 @@ body {
 @media (max-width: 500px) {
   body {
     background-image: url("./images/bg2.jpg");
+    height: 100vh;
   }
 }
 .globalHeader {
