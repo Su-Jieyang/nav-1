@@ -37,6 +37,7 @@ body {
   background-attachment: fixed;
   background-position: center;
   overflow: auto;
+  height: 100%;
 }
 .globalHeader {
   margin: 20px;
