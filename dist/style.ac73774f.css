@@ -119,7 +119,7 @@ body {
 }
 .siteList .site > .link {
   font-size: 14px;
-  margin-top: 4px;
+  line-height: 1.5;
 }
 .siteList .site > .close {
   position: absolute;
@@ -148,7 +148,7 @@ body {
 }
 .siteList .addButton .text {
   font-size: 14px;
-  margin-top: 4px;
+  line-height: 1.5;
 }
 .siteList .addButton .icon-wrapper {
   width: 64px;
@@ -159,4 +159,4 @@ body {
 }
 
 
-/*# sourceMappingURL=style.63763caa.css.map */
+/*# sourceMappingURL=style.ac73774f.css.map */
