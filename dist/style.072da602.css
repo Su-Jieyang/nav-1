@@ -38,7 +38,11 @@ body {
   background-position: center;
   overflow: auto;
 }
-
+@media (max-width: 500px) {
+  body {
+    background-image: url("bg2.35f6ff90.jpg");
+  }
+}
 .globalHeader {
   margin: 20px;
 }
@@ -165,4 +169,4 @@ body {
 }
 
 
-/*# sourceMappingURL=style.8bac8966.css.map */
+/*# sourceMappingURL=style.072da602.css.map */
