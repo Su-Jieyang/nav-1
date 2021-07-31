@@ -31,7 +31,12 @@ img {
 }
 /* style */
 body {
-  background: #eee;
+  background-image: url("./images/bg1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  overflow: auto;
 }
 .globalHeader {
   margin: 20px;

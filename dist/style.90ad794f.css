@@ -31,7 +31,12 @@ img {
 }
 /* style */
 body {
-  background: #eee;
+  background-image: url("bg1.347778d8.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  overflow: auto;
 }
 .globalHeader {
   margin: 20px;
@@ -159,4 +164,4 @@ body {
 }
 
 
-/*# sourceMappingURL=style.ac73774f.css.map */
+/*# sourceMappingURL=style.90ad794f.css.map */
